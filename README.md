@@ -101,7 +101,7 @@ Implemented as part of my preparation for **technical interviews** and improveme
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -135,13 +135,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
-
-
-
-
-
-
-
 
 
 
